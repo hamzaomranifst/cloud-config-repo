@@ -1,0 +1,3 @@
+testMicroService:
+	port: 9000
+	nbEndPoint: 20
