@@ -1,0 +1,4 @@
+testMicroservice:
+    port: 9000
+    source: Functionnary
+    nbEndPoint: 20
